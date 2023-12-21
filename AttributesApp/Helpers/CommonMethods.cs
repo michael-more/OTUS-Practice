@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AttributesApp;
+﻿namespace AttributesApp;
 
 public class CommonMethods
 {

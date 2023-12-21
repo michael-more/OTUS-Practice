@@ -1,5 +1,4 @@
-﻿using System;
-using AttributesApp;
+﻿using AttributesApp;
 
 Person tom = new Person("Tom", 35);
 Person bob = new Person("Bob", 16);

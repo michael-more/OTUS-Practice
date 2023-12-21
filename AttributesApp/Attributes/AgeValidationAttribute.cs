@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AttributesApp;
+﻿namespace AttributesApp;
 
 [AttributeUsage(AttributeTargets.Class)]
 public class AgeValidationAttribute : Attribute
