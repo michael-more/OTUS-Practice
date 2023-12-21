@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributesApp", "AttributesApp\AttributesApp.csproj", "{6493FED8-C3EF-4B94-AEA1-1FFED8E07DCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionApp", "ExceptionApp\ExceptionApp.csproj", "{585ACFDE-3869-4A45-9080-84F0C8753049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{6493FED8-C3EF-4B94-AEA1-1FFED8E07DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6493FED8-C3EF-4B94-AEA1-1FFED8E07DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6493FED8-C3EF-4B94-AEA1-1FFED8E07DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585ACFDE-3869-4A45-9080-84F0C8753049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585ACFDE-3869-4A45-9080-84F0C8753049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585ACFDE-3869-4A45-9080-84F0C8753049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585ACFDE-3869-4A45-9080-84F0C8753049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
